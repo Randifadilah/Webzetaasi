@@ -1,2 +1,0 @@
-# Webzetaasi
-WebPribadi
